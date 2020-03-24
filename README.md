@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## OAuth 2.0 PKCE Flow
+ [Auth0 React SDK Quickstart Guide](https://auth0.com/docs/quickstart/spa/react/01-login)
 
 ## Available Scripts
 
