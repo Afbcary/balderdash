@@ -1,3 +1,9 @@
+## Getting Started
+* In auth_config.json, replace clientId with the id of this app, in Kalidasa.
+* yarn install
+* yarn start
+
+
 ## OAuth 2.0 PKCE Flow
  [Auth0 React SDK Quickstart Guide](https://auth0.com/docs/quickstart/spa/react/01-login)
 
